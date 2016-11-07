@@ -1,0 +1,14 @@
+
+/* in-line image div */
+#backgrnd-img-src {
+    display: none;
+}
+
+#backgrnd-img-section {
+    height: 500px;
+}
+
+#content-div {
+    color: aliceblue;
+    padding: 40px 20px;
+}
